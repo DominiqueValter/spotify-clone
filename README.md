@@ -1,25 +1,29 @@
-# Uma versão do spotify 
+# Spotify Clone
 
-**Descrição:**
+## Descrição
 
-Este projeto é uma versão do Spotify desenvolvida durante o curso **Jornada Full Stack**. O objetivo foi aplicar conhecimentos em desenvolvimentos web para criar uma interface funcional e responsiva, permitido e reprodução de músicas
- 
-**Tecnologias:**
+Este projeto é uma versão do Spotify desenvolvida durante o curso **Jornada Full Stack**. O objetivo foi aplicar conhecimentos em desenvolvimento web para criar uma aplicação funcional e responsiva, permitindo a reprodução de músicas e a navegação entre artistas.
 
-* **JavaScript:** Linguagem de programação principal.
-* **HTML:** Estrutura do projeto.
-* **CSS:** Estilizção e responsividade.
-* **Node.js:** Backend e gerenciamento de servidores.
+## Tecnologias
 
-**Funcionalidades:**
+* **JavaScript** – Linguagem de programação principal.
+* **HTML** – Estrutura da aplicação.
+* **CSS** – Estilização e responsividade.
+* **Node.js** – Desenvolvimento do back-end.
 
-* Reprodução de musicas. 
-* Interface responsiva para dispositivos móveis.
-* Interface dos perfils dos cantores
+## Funcionalidades
 
+* Reprodução de músicas;
+* Interface responsiva para diferentes dispositivos;
+* Visualização dos perfis dos artistas;
+* Integração entre front-end e back-end.
 
-**Limitações:**
+## Limitações
 
-* Não tem organizaçao de playlist.
-* Busca de musicas e artistas. 
-  
+* Não possui organização de playlists;
+* Não possui sistema de busca de músicas e artistas;
+* Algumas funcionalidades dependem do banco de dados, que atualmente está indisponível.
+
+## Objetivo
+
+Projeto desenvolvido para fins de estudo e aprendizado em desenvolvimento Full Stack, com foco na aplicação prática de JavaScript, Node.js, HTML e CSS.
